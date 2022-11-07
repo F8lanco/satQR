@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/satQR/static/css/main.073c9b0a.css",
-    "main.js": "/satQR/static/js/main.bfca0545.js",
+    "main.js": "/satQR/static/js/main.ea36e2a5.js",
     "static/js/787.2ceb1998.chunk.js": "/satQR/static/js/787.2ceb1998.chunk.js",
-    "static/media/logo.svg": "/satQR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/satQR/index.html",
     "main.073c9b0a.css.map": "/satQR/static/css/main.073c9b0a.css.map",
-    "main.bfca0545.js.map": "/satQR/static/js/main.bfca0545.js.map",
+    "main.ea36e2a5.js.map": "/satQR/static/js/main.ea36e2a5.js.map",
     "787.2ceb1998.chunk.js.map": "/satQR/static/js/787.2ceb1998.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bfca0545.js"
+    "static/js/main.ea36e2a5.js"
   ]
 }

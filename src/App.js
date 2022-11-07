@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+import LectorQR from './components/LectorQR';
 function App() {
   return (
     <div className="App">
@@ -17,7 +18,9 @@ function App() {
         >
           Learn React
         </a>
+
       </header>
+      <LectorQR></LectorQR>
     </div>
   );
 }
